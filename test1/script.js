@@ -1,7 +1,7 @@
 function sayHi() {
-    console.log("Hiy!");
+    alert("Hello from Git!");
 }
 
-sayHi();
-
-console.log("end");
+function sayBye() {
+    alert("Goodbye from Git!");
+}
