@@ -1,8 +1,7 @@
 function sayHi() {
-  console.log('Hiy!');
+  console.log('Hello from Git!');
 }
 
-
-
-console.log('im in master');
-sayHi();
+function sayBye() {
+    alert("Goodby from Git!");
+}
